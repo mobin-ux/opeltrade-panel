@@ -341,7 +341,7 @@ echo smarty_modifier_myescape((($tmp = @$_smarty_tpl->tpl_vars['ps']->value[77][
 										<div class="row">
 											<div class="col-12">
 												<div class="city">Your referral url</div>
-												<div class="col-md-6" style="padding-left: 0px;padding-top: 10px;color: #158467;">
+												<div class="col-md-6" style="padding-left: 0px;padding-top: 10px;color: #01123c;">
 													<div class="night" style="font-size: 16px"><?php echo smarty_modifier_myescape($_smarty_tpl->tpl_vars['settings']->value['site_url']);?>
 /<?php echo smarty_modifier_myescape(encurl("?ref=".((string)$_smarty_tpl->tpl_vars['userinfo']->value['username'])));?>
 </div>
@@ -371,7 +371,7 @@ echo smarty_modifier_myescape((($tmp = @$_smarty_tpl->tpl_vars['ps']->value[77][
 											<div class="incrop-left" style="min-height: 100%;">
 												<div class="incrop-left-img">
 													<img src="styles/assets/img/uk.png">
-													<h4 class="step__title" style="padding-bottom: 15px;color:#158467;">UK Registered Company</h4>
+													<h4 class="step__title" style="padding-bottom: 15px;color:#01123c;">UK Registered Company</h4>
 													<p><?php echo smarty_modifier_myescape($_smarty_tpl->tpl_vars['settings']->value['site_name']);?>
  is a fully registered and licensed company in UK. <?php echo smarty_modifier_myescape($_smarty_tpl->tpl_vars['settings']->value['site_name']);?>
  is powered by the latest and most secure form of SSL data encryption to keep all your data and information safe and secure.</p>

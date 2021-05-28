@@ -85,12 +85,12 @@
                                 <td class=item>
                                     <table cellspacing=1 cellpadding=2 border=0 width=100% id="a1" class="tab">
                                         <tr>
-                                            <td colspan=3 align=center style="color: #158467;"><b>{$p.name}</b></td>
+                                            <td colspan=3 align=center style="color: #01123c;"><b>{$p.name}</b></td>
                                         </tr>
                                         <tr>
-                                            <th class=inheader style="color: #158467;">Plan</th>
-                                            <th class=inheader width=200 style="color: #158467;">Amount Spent ({$currency_sign})</th>
-                                            <th class=inheader width=100 nowrap style="color: #158467;">
+                                            <th class=inheader style="color: #01123c;">Plan</th>
+                                            <th class=inheader width=200 style="color: #01123c;">Amount Spent ({$currency_sign})</th>
+                                            <th class=inheader width=100 nowrap style="color: #01123c;">
                                                 <nobr>{$p.period} Profit (%)</nobr>
                                             </th>
                                         </tr>
@@ -110,13 +110,13 @@
                                         </tr>
                                         {else}
                                         <tr>
-                                            <th class=inheader style="color: #158467;">Date</th>
-                                            <th class=inheader style="color: #158467;">Amount</th>
+                                            <th class=inheader style="color: #01123c;">Date</th>
+                                            <th class=inheader style="color: #01123c;">Amount</th>
                                             {if $p.use_compound}
-                                            <th class=inheader style="text-align: center;color: #158467;">Compounding Percent</th>
+                                            <th class=inheader style="text-align: center;color: #01123c;">Compounding Percent</th>
                                             {/if}
                                             {if $p.withdraw_principal}
-                                            <th style="text-align: center;color: #158467;" class=inheader>Release</th>
+                                            <th style="text-align: center;color: #01123c;" class=inheader>Release</th>
                                             {/if}
                                         </tr>
                                         {foreach from=$p.deposits item=d}
@@ -146,15 +146,15 @@
                                     {if $p.total_deposit > 0 || $p.today_profit > 0 || $p.total_profit > 0}
                                     <table cellspacing=0 cellpadding=1 border=0>
                                         <tr>
-                                            <td style="color: #158467;">Deposited Total:</td>
+                                            <td style="color: #01123c;">Deposited Total:</td>
                                             <td><b>{$currency_sign}{$p.total_deposit}</b></td>
                                         </tr>
                                         <tr>
-                                            <td style="color: #158467;">Profit Today:</td>
+                                            <td style="color: #01123c;">Profit Today:</td>
                                             <td><b>{$currency_sign}{$p.today_profit}</b></td>
                                         </tr>
                                         <tr>
-                                            <td style="color: #158467;">Total Profit:</td>
+                                            <td style="color: #01123c;">Total Profit:</td>
                                             <td><b>{$currency_sign}{$p.total_profit}</b></td>
                                         </tr>
                                     </table>

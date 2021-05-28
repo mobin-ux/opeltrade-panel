@@ -150,7 +150,7 @@ $_smarty_tpl->properties['nocache_hash'] = '197775317260b08bd4bcb0c5_20595309';
 
 			.swiper-pagination-bullet-active {
 				color: #fff;
-				background: #158467;
+				background: #01123c;
 			}
 
 			.swiper-container {
@@ -291,7 +291,7 @@ $_smarty_tpl->properties['nocache_hash'] = '197775317260b08bd4bcb0c5_20595309';
 
 			.swiper-pagination-bullet-active {
 				color: #fff;
-				background: #158467;
+				background: #01123c;
 			}
 
 			.swiper-container {
@@ -840,7 +840,7 @@ $_smarty_tpl->properties['nocache_hash'] = '197775317260b08bd4bcb0c5_20595309';
 															alt="Create account">
 													</div>
 													<div class="step__body">
-														<h4 class="step__title" style="color: #158467 !important;">
+														<h4 class="step__title" style="color: #01123c !important;">
 															Withdraw profit
 														</h4>
 														<div class="step__content">When you will receive your first

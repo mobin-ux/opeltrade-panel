@@ -4,8 +4,8 @@
 <style>
     .deposit-process {
         color: #fff;
-        background-color: #158467;
-        border-color: #158467;
+        background-color: #01123c;
+        border-color: #01123c;
 
 
         text-decoration: none;
@@ -37,8 +37,8 @@
 
     .deposit-cancel {
         color: #fff;
-        background-color: #158467;
-        border-color: #158467;
+        background-color: #01123c;
+        border-color: #01123c;
 
 
         text-decoration: none;
@@ -123,19 +123,19 @@
                                     <td align="center" colspan="3">{$coin_payment_image}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Plan:</th>
+                                    <th style="text-align: left;color: #01123c;">Plan:</th>
                                     <td style="text-align: right;">{$deposit.name|escape:html}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Profit:</th>
+                                    <th style="text-align: left;color: #01123c;">Profit:</th>
                                     <td style="text-align: right;">{$deposit.percent}% {if $deposit.period == 'end'}after {$deposit.periods} days{else}{$deposit.period_name} for {if $deposit.periods == 0}lifelong{else}{$deposit.periods} {$deposit.time_units}{if $deposit.time_units != 1}s{/if} {if $deposit.work_week}(mon-fri){/if}{/if}{/if}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Principal Return:</th>
+                                    <th style="text-align: left;color: #01123c;">Principal Return:</th>
                                     <td style="text-align: right;">{if $deposit.principal_return}Yes{if $deposit.principal_return_hold_percent > 0}, with {$deposit.principal_return_hold_percent|number_format:2}% fee{/if}{else}No (included in profit){/if}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Principal Withdraw:</th>
+                                    <th style="text-align: left;color: #01123c;">Principal Withdraw:</th>
                                     <td style="text-align: right;">
                                         {if $deposit.principal_withdraw}Available with
                                         {foreach from=$deposit.principal_withdraw_terms item=t name=wpt}
@@ -147,7 +147,7 @@
                                 </tr>
                                 {if $deposit.use_compound == 1}
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Compound:</th>
+                                    <th style="text-align: left;color: #01123c;">Compound:</th>
                                     <td style="text-align: right;">{$deposit.compound|number_format}%</td>
                                 </tr>
                                 {/if}
@@ -155,26 +155,26 @@
 
                                 {if $deposit.ec_fees.fee}
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Credit Amount:</th>
+                                    <th style="text-align: left;color: #01123c;">Credit Amount:</th>
                                     <td style="text-align: right;">{$currency_sign}{$deposit.user_amount}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Deposit Fee:</th>
+                                    <th style="text-align: left;color: #01123c;">Deposit Fee:</th>
                                     <td style="text-align: right;">{$deposit.ec_fees.percent}% + {$currency_sign}{$deposit.ec_fees.add_amount} (min. {$currency_sign}{$deposit.ec_fees.fee_min} max. {$currency_sign}{$deposit.ec_fees.fee_max})</td>
                                 </tr>
                                 {/if}
                                 {if $deposit.converted_amount}
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Debit Amount:</th>
+                                    <th style="text-align: left;color: #01123c;">Debit Amount:</th>
                                     <td style="text-align: right;">{$currency_sign}{$deposit.converted_amount}</td>
                                 </tr>
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">{$deposit.converted_fiat} Debit Amount:</th>
+                                    <th style="text-align: left;color: #01123c;">{$deposit.converted_fiat} Debit Amount:</th>
                                     <td style="text-align: right;">{$deposit.amount}</td>
                                 </tr>
                                 {else}
                                 <tr>
-                                    <th style="text-align: left;color: #158467;">Debit Amount:</th>
+                                    <th style="text-align: left;color: #01123c;">Debit Amount:</th>
                                     <td style="text-align: right;">{$currency_sign}{$deposit.amount}</td>
                                 </tr>
                                 {/if}

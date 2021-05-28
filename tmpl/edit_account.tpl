@@ -268,7 +268,7 @@
             <div class="row clearfix">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="card member-card" style="min-height: 499px;border-radius: 0.55rem 0.55rem .25rem .25rem;">
-                        <div class="headeraccount l-pink" style="background: #158467 !important">
+                        <div class="headeraccount l-pink" style="background: #01123c !important">
                             <h4 class="m-t-10">{$userinfo.username}</h4>
                         </div>
                         <div class="member-img">

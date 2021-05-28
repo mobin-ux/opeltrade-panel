@@ -273,7 +273,7 @@
 										<div class="row">
 											<div class="col-12">
 												<div class="city">Your referral url</div>
-												<div class="col-md-6" style="padding-left: 0px;padding-top: 10px;color: #158467;">
+												<div class="col-md-6" style="padding-left: 0px;padding-top: 10px;color: #01123c;">
 													<div class="night" style="font-size: 16px">{$settings.site_url}/{"?ref=`$userinfo.username`"|encurl}</div>
 												</div>
 												<div class="col-md-6 text-right" style="padding-right: 0px;">
@@ -299,7 +299,7 @@
 											<div class="incrop-left" style="min-height: 100%;">
 												<div class="incrop-left-img">
 													<img src="styles/assets/img/uk.png">
-													<h4 class="step__title" style="padding-bottom: 15px;color:#158467;">UK Registered Company</h4>
+													<h4 class="step__title" style="padding-bottom: 15px;color:#01123c;">UK Registered Company</h4>
 													<p>{$settings.site_name} is a fully registered and licensed company in UK. {$settings.site_name} is powered by the latest and most secure form of SSL data encryption to keep all your data and information safe and secure.</p>
 												</div>
 											</div>

@@ -4,7 +4,7 @@ padding-bottom: 90px;
 }
 
 .padsection h4{
-color: #158467;
+color: #01123c;
 }
 
 .bagblack {
@@ -65,7 +65,7 @@ background-color: #000;
     font-weight: 500;
     letter-spacing: -0.4px;
     text-align: center;
-    color: #158467;
+    color: #01123c;
     margin: 12px 0;
 }
 
@@ -210,7 +210,7 @@ li.list-item {
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background: #158467;
+    background: #01123c;
     opacity: 0;
     -webkit-transition: 0.5s;
     transition: 0.5s;
@@ -240,7 +240,7 @@ li.list-item {
     letter-spacing: 1px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    color: #158467;
+    color: #01123c;
 }
 
 .service-description {
@@ -260,7 +260,7 @@ li.list-item {
     bottom: 0;
     height: 3px;
     width: 75px;
-    background: #158467;
+    background: #01123c;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }
@@ -276,7 +276,7 @@ li.list-item {
 }
 
 .service-item:hover .services-icon {
-    background: #158467;
+    background: #01123c;
     box-shadow: 0px 0px 0px 14px #191919;
 }
 
@@ -291,7 +291,7 @@ li.list-item {
     left: 0px;
     bottom: 0px;
     right: 0px;
-    background: #158467;
+    background: #01123c;
     opacity: 0;
     -webkit-transition: 0.5s;
     transition: 0.5s;

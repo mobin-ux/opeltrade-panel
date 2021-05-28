@@ -100,7 +100,7 @@
 
 			.swiper-pagination-bullet-active {
 				color: #fff;
-				background: #158467;
+				background: #01123c;
 			}
 
 			.swiper-container {
@@ -239,7 +239,7 @@
 
 			.swiper-pagination-bullet-active {
 				color: #fff;
-				background: #158467;
+				background: #01123c;
 			}
 
 			.swiper-container {
@@ -764,7 +764,7 @@
 															alt="Create account">
 													</div>
 													<div class="step__body">
-														<h4 class="step__title" style="color: #158467 !important;">
+														<h4 class="step__title" style="color: #01123c !important;">
 															Withdraw profit
 														</h4>
 														<div class="step__content">When you will receive your first

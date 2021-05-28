@@ -117,7 +117,7 @@ img {
 
 .info-box-2 .content .text {
     margin-top: 11px;
-    color: #158467;
+    color: #01123c;
 }
 
 .info-box-2 .content .number {
@@ -145,7 +145,7 @@ img {
 }
 
 .card .headeraccount h2 strong {
-    color: #158467;
+    color: #01123c;
 }
 
 .activity li a .info h4, .authentication .card-plain .headeraccount h5, .card .header, .card-signup .text-divider, .checkbox label, .contact .action_bar .delete_all, .contact .c_list .c_name, .contact .c_list .checkbox, .contact .c_list address, .footer ul, .inbox-widget .inbox-inner .inbox-item-info .author, .inbox-widget .inbox-inner .inbox-item-info .inbox-date, .inbox-widget .inbox-inner .inbox-item-info .inbox-message, .location_list, .location_list li h4, .m-b-0, .navbar-nav li.notifications .media, .new_friend_list, .new_friend_list li .users_name, .page-calendar .event-name address, .page-calendar .event-name h4, .page-calendar .event-name h6, .page-calendar .event-name p, .pricing, .pricing h3, .profile-page .profile-header .detail .u_name h4, .profile_state li h4, .project_report h6, .radio label, .right-sidebar .card, .right-sidebar .card ul, .social_media_table .table, .to-do-list .checkbox {
