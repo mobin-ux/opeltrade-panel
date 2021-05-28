@@ -1,0 +1,39 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 92.33 95.84">
+  <defs>
+    <linearGradient id="linear-gradient" x1="93.85" y1="2279.1" x2="151.47" y2="2315.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2952ed"/>
+      <stop offset="1" stop-color="#39c3dc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="110.74" y1="2337.34" x2="184.4" y2="2276.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fd7e49"/>
+      <stop offset="0.1" stop-color="#fd924d"/>
+      <stop offset="0.28" stop-color="#fdb355"/>
+      <stop offset="0.43" stop-color="#fdc859"/>
+      <stop offset="0.54" stop-color="#fdcf5b"/>
+      <stop offset="0.57" stop-color="#fcd060"/>
+      <stop offset="0.6" stop-color="#fbd46f"/>
+      <stop offset="0.64" stop-color="#f8db87"/>
+      <stop offset="0.69" stop-color="#f4e4a9"/>
+      <stop offset="0.73" stop-color="#f0f0d4"/>
+      <stop offset="0.77" stop-color="#ebfcff"/>
+      <stop offset="0.78" stop-color="#edf7e8"/>
+      <stop offset="0.82" stop-color="#f2edbd"/>
+      <stop offset="0.86" stop-color="#f6e599"/>
+      <stop offset="0.89" stop-color="#f9df7d"/>
+      <stop offset="0.93" stop-color="#fbdb69"/>
+      <stop offset="0.96" stop-color="#fdd85d"/>
+      <stop offset="1" stop-color="#fdd759"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="104.65" y1="2265.32" x2="139.89" y2="2326.36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39c3dc"/>
+      <stop offset="1" stop-color="#2952ed"/>
+    </linearGradient>
+  </defs>
+  <title>coin6</title>
+  <g>
+    <path d="M164.82,2300.07a70.84,70.84,0,0,1-28.93,36.34c-37,23.11-67.44-6.09-48.58-46C114.25,2233.31,183.65,2244.77,164.82,2300.07Z" transform="translate(-81.56 -2252.71)" fill="url(#linear-gradient)"/>
+    <path d="M167.66,2271.68l-5.59-7.85.54.79c22.73,34.09-30,93.16-65,77.2,8.76,4,13.67,7,23,6.71C154.78,2347.4,188,2300.3,167.66,2271.68Z" transform="translate(-81.56 -2252.71)" fill="url(#linear-gradient-2)"/>
+    <path d="M102.23,2333.93a23.1,23.1,0,0,1-10.67-7.14,26.66,26.66,0,0,1-5.41-11,36.94,36.94,0,0,1-.68-13A49.69,49.69,0,0,1,89.25,2289a58.81,58.81,0,0,1,7.53-12.76,59.68,59.68,0,0,1,10.07-10.2,50.91,50.91,0,0,1,11.93-7.12,37.8,37.8,0,0,1,13.19-3,26.77,26.77,0,0,1,12.46,2.4,23.4,23.4,0,0,1,9.38,8.09,29,29,0,0,1,4.65,13.35,43.16,43.16,0,0,1-2.05,17.5,57.26,57.26,0,0,1-9.32,17.6A58.1,58.1,0,0,1,133,2328a44.76,44.76,0,0,1-15.9,6.65,29.64,29.64,0,0,1-14.82-.7m30.32-79.56a39.83,39.83,0,0,0-13.74,3.21,53.75,53.75,0,0,0-12.39,7.43A62.45,62.45,0,0,0,96,2275.61a61.19,61.19,0,0,0-7.83,13.25,51.86,51.86,0,0,0-4,14.35,39,39,0,0,0,.64,13.55,28.09,28.09,0,0,0,5.56,11.54,24.17,24.17,0,0,0,11.11,7.59,30.82,30.82,0,0,0,15.51.85,46.62,46.62,0,0,0,16.73-6.91,60.71,60.71,0,0,0,14.9-13.81,59.87,59.87,0,0,0,9.78-18.54,44.79,44.79,0,0,0,2.06-18.37,30.05,30.05,0,0,0-5-14,24.42,24.42,0,0,0-9.89-8.37,28.35,28.35,0,0,0-13-2.42" transform="translate(-81.56 -2252.71)" fill="url(#linear-gradient-3)"/>
+  </g>
+  <path id="DOGE_alt" data-name="DOGE alt" d="M130.15,2277.79l-6.22-2.83-9.14,13.78-2.59-1.36-2.33,3.49,2.6,1.36-9.34,14.23,6.88,3.89s11.42,6.77,23.73-10.18C144,2283.41,131.82,2278.59,130.15,2277.79Zm-15.87,26.56-3.35-1.61,5.89-8.33,5.07,2.43,2.33-3.49-5.08-2.43,5.22-8.35,3.19,1.54c1.22.58,7.25,4.13,1,14C121.69,2307.9,115.16,2304.77,114.28,2304.35Z" transform="translate(-81.56 -2252.71)" fill="#fff"/>
+</svg>

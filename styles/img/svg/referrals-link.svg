@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53.02 49.11">
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <path d="M17.46,25.21l-1.78-1.78a3,3,0,0,1,0-4.31L32.9,1.89a3,3,0,0,1,4.31,0l6.17,6.17a3,3,0,0,1,0,4.31l-7.16,7.16" fill="none" stroke="#0476e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M21.74,29.31l.3.28a3,3,0,0,0,4.31-.07l5.09-5.24" fill="none" stroke="#0476e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="8.75" y="25.96" width="30.45" height="14.82" rx="3.05" ry="3.05" transform="translate(-16.57 26.73) rotate(-45)" fill="none" stroke="#0476e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g>
+        <polyline points="15.55 9.17 19.58 5.92 16.15 2.5" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <circle cx="6.51" cy="34" r="0.06" transform="translate(-22.39 14.94) rotate(-45.75)" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"/>
+        <path d="M17.1,5.78q-.57,0-1.13,0A15.79,15.79,0,0,0,4.4,31.35" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g>
+        <circle cx="46.51" cy="14.96" r="0.06" transform="translate(3.34 37.83) rotate(-45.75)" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3"/>
+        <path d="M35.92,43.18q.57,0,1.13,0A15.79,15.79,0,0,0,48.62,17.61" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <polyline points="37.47 39.79 33.44 43.03 36.86 46.46" fill="none" stroke="#6881b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

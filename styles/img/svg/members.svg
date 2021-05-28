@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 45.15 39.58">
+  <defs>
+    <clipPath id="clip-path" transform="translate(0 0)">
+      <rect width="45.15" height="39.58" fill="none"/>
+    </clipPath>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g clip-path="url(#clip-path)">
+        <path d="M39.48,11.33H35.17V7.52h4.32a1.9,1.9,0,0,1,0,3.8Z" transform="translate(0 0)" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <path d="M39.48,15.13H35.17v-3.8h4.32a1.9,1.9,0,0,1,0,3.8Z" transform="translate(0 0)" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <line x1="37.61" y1="7.52" x2="37.61" y2="4.99" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <line x1="37.61" y1="18.09" x2="37.61" y2="15.56" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <path d="M9.74,11.33H5.43V7.52H9.74a1.9,1.9,0,0,1,0,3.8Z" transform="translate(0 0)" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <path d="M9.74,15.13H5.43v-3.8H9.74a1.9,1.9,0,0,1,0,3.8Z" transform="translate(0 0)" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <line x1="7.87" y1="7.52" x2="7.87" y2="4.99" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <line x1="7.87" y1="18.09" x2="7.87" y2="15.56" fill="none" stroke="#6881b4" stroke-miterlimit="10" stroke-width="1.7"/>
+        <circle cx="22.61" cy="4.98" r="4.08" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+        <path d="M25.34,18.09H19.87a4.21,4.21,0,0,1-4.21-4.21V11a1.68,1.68,0,0,1,1.68-1.68H27.87A1.68,1.68,0,0,1,29.55,11v2.89A4.21,4.21,0,0,1,25.34,18.09Z" transform="translate(0 0)" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+        <circle cx="37.3" cy="25.58" r="4.08" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+        <path d="M40,38.68H34.57a4.21,4.21,0,0,1-4.21-4.21V31.58A1.68,1.68,0,0,1,32,29.9H42.56a1.68,1.68,0,0,1,1.68,1.68v2.89A4.21,4.21,0,0,1,40,38.68Z" transform="translate(0 0)" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+        <circle cx="7.84" cy="25.58" r="4.08" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+        <path d="M10.58,38.68H5.11A4.21,4.21,0,0,1,.9,34.48V31.58A1.68,1.68,0,0,1,2.58,29.9H13.1a1.68,1.68,0,0,1,1.68,1.68v2.89A4.21,4.21,0,0,1,10.58,38.68Z" transform="translate(0 0)" fill="none" stroke="#0476e4" stroke-miterlimit="10" stroke-width="1.8"/>
+      </g>
+    </g>
+  </g>
+</svg>
