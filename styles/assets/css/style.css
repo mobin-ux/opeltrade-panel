@@ -5601,7 +5601,7 @@ button.close {
 
 .btn-black-warning {
 	color: #4f4f4f;
-    background-color: #171717;
+    background-color: #d3e5ff;
     border-color: #171717;
 }
 
@@ -9118,7 +9118,7 @@ body {
     line-height: 26px;
     line-height: 1.85rem;
     color: #717171;
-    background-color: #171717;
+    background-color: #d3e5ff;
 }
 
 .titlesite h2{
@@ -10692,7 +10692,7 @@ label {
 .header {
     position: relative;
     padding: 35px 0 0;
-    background-color: #171717;
+    background-color: #d3e5ff;
 	background-size: contain;
     /* background: url(../img/header.png) no-repeat center; */
     color: #fff
@@ -11780,7 +11780,7 @@ label {
 	padding:0 !important;
 }
 .incrop-left {
-        background-color: #171717;
+        background-color: #d3e5ff;
 	background-size:100%;
 	background-position:0 100%;
         padding:30px;
