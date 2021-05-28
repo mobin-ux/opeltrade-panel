@@ -37,7 +37,7 @@
                             </div>
                         </div>
                     </div>
-                    <table class="table table-striped m-b-0" style="color: #9e9e9e;">
+                    <table class="table table-striped m-b-0" style="color: #012c6d;">
                         <tbody>
                             <tr>
                                 <td>Your status</td>
@@ -351,7 +351,7 @@
             }
 
             .weather2 {
-                color: #9e9e9e;
+                color: #012c6d;
             }
 
             .overflowhidden {
