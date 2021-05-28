@@ -8,7 +8,7 @@ color: #01123c;
 }
 
 .bagblack {
-background-color: #000;
+background-color: #d3e5ff;
 }
 
 
@@ -44,7 +44,7 @@ background-color: #000;
 .plan_details.text-center {
     width: 255px;
     height: 300px;
-    background-color: #000;
+    background-color: #d3e5ff;
     margin: 0 auto;
 }
 
@@ -96,7 +96,7 @@ li.list-item {
 
 .bg-gradiant {
     height: 144px;
-    background-color: #000;
+    background-color: #d3e5ff;
 }
 
 .bg-gradiant .d-flex {
